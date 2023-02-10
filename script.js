@@ -1,5 +1,3 @@
-/*jslint browser: true, devel: true */
-
 function carregaDicionario() {
 
   var biografias = {
